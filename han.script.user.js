@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         UU看书网页优化（繁转简+去广告+禁止新窗口打开）
+// @name         UUkan Book Reader Optimization
+// @name:zh-CN   UU看书网页优化（繁转简+去广告+禁止新窗口打开）
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  优化 UU看书 阅读体验：繁体转简体、移除所有广告框架、修改所有链接在当前页打开
+// @description  Optimize UUkan reading experience: Traditional to Simplified Chinese, remove ads/iframes, and force links in current tab.
+// @description:zh-CN 优化 UU看书 阅读体验：繁体转简体、移除所有广告框架、修改所有链接在当前页打开
 // @author       Assistant
 // @match        https://*.uukanshu.cc/*
 // @match        https://*.uukanshu.com/*

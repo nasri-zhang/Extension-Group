@@ -10,7 +10,7 @@
 // @match        https://*.uukanshu.com/*
 // @run-at       document-end
 // @grant        none
-// ==UserScript==
+// ==/UserScript==
 
 (function() {
     'use strict';
